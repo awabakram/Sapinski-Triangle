@@ -1,6 +1,6 @@
 # Sapinski-Triangle
 This Python project utilizes the Turtle module to draw a Sierpinski Triangle. The Sierpinski Triangle is a fractal pattern composed of equilateral triangles, recursively subdivided into smaller triangles.
-![Alt text](/posts/path/to/Triangle\ screenshot.png "Optional title")
+![Alt text](/posts/path/to/Triangle%20screenshot.png "Optional title")
 # Configuration
 You can modify the following variables in the sierpinski_triangle.py file to customize the triangle:
 
